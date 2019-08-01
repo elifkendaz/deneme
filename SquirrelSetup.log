@@ -224,3 +224,6 @@
 2019-07-31 16:34:07> CheckForUpdateImpl: Using existing staging user ID: b4c60aa8-74a9-5d87-a60c-f26c4cfbfe72
 2019-07-31 16:34:07> CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=2.1.0&env=production
 2019-07-31 16:34:07> FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=2.1.0&env=production&id=GitHubDesktop&localVersion=2.1.0&arch=amd64
+
+
+123
